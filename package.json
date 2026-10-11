@@ -18,7 +18,7 @@
     "next": "16.4.0",
     "react": "19.3.0",
     "react-dom": "19.3.0",
-    "react-i18next": "^17.0.2"
+    "react-i18next": "^17.0.16"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.14",
