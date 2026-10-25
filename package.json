@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "i18next": "^26.4.2",
-    "lucide-react": "^0.546.0",
+    "lucide-react": "^1.61.0",
     "motion": "^12.23.24",
     "next": "16.4.3",
     "react": "19.3.1",
