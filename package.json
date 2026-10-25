@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.3",
-    "@types/node": "^22.14.0",
+    "@types/node": "^26.6.5",
     "@types/react": "19.2.14",
     "autoprefixer": "^10.6.1",
     "tailwindcss": "^4.3.3",
